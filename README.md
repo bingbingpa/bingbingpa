@@ -1,8 +1,10 @@
 ### Hello World! 👋⚡⚡⚡
 
-![bingbingpa's github stats](https://github-readme-stats.vercel.app/api?username=bingbingpa&show_icons=true&theme=tokyonight)
-
 [![blog](https://img.shields.io/badge/blog-bingbingpa.github.io-blue)](https://bingbingpa.github.io/)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bingbingpa&show_icons=true">
+
+
 
 
 <!--
