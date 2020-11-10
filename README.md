@@ -2,10 +2,9 @@
 
 [![blog](https://img.shields.io/badge/blog-bingbingpa.github.io-blue)](https://bingbingpa.github.io/)
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=bingbingpa&show_icons=true">
-
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingbingpa&layout=compact">
 
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=bingbingpa&show_icons=true">
 
 <!--
 **bingbingpa/bingbingpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
