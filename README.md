@@ -1,6 +1,10 @@
+### Hello World! 👋⚡⚡⚡
+
+[![blog](https://img.shields.io/badge/blog-bingbingpa.github.io-blue)](https://bingbingpa.github.io/)
+
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=bingbingpa&show_icons=true">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingbingpa&layout=compact">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingbingpa&layout=compact">
 
 
 <!--
